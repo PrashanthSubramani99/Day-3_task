@@ -4,7 +4,7 @@ let resume={
     'Location':'Neyveli',
     'Phone':'9080749683',
 }
-
+console.log(resume);
 // difference btwn window, screen and document in javascript
 
 // In JavaScript, the window object represents the top-level object in the browser, and it represents the current browser window or tab. The window object contains many properties and methods that can be used to interact with the browser window, such as opening and closing windows, controlling the size of the window, managing the scrollbars, and more.
